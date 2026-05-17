@@ -7,7 +7,7 @@ Markdown tables use markdown [extended syntax](https://www.markdownguide.org/ext
 
 # Introduction
 
-This basic workflow allows for the creation of sample markdown tables with a header row (using column headings that you provide) and three other rows, as follows:
+This workflow allows for the creation of markdown tables with a header row (using column headings that you provide) and the number of data rows that you choose (up to 100), as follows:
 
 - a two, three or four column table with all text left justified;
 - a two, three or four column table with all text centred.
@@ -24,13 +24,20 @@ This basic workflow allows for the creation of sample markdown tables with a hea
 
 Select your choice and press <kbd>↩︎</kbd>.
 
-3. You will be prompted to provide the header for the first table column:
+3. Choose the number of data rows (i.e., excluding the header row) you want in your table:
+
+   <img width="860" height="152" alt="Rows" src="https://github.com/user-attachments/assets/fd4b16cc-91d1-4a8e-9256-1bf6871067aa" />
+
+You can choose any number between 1 and 100 (let's be sensible 😀). Type a number and press <kbd>↩︎</kbd>.
+
+
+4. You will be prompted to provide the header for the first table column:
 
     <img width="860" height="153" alt="FirstColumnPrompt" src="https://github.com/user-attachments/assets/7deea6fc-7f80-4d70-8a14-c7d0141df3b8" />
 
 
 
-4. When you have done that press <kbd>↩︎</kbd> and you will be prompted to provide the header for the next table column:
+5. When you have done that press <kbd>↩︎</kbd> and you will be prompted to provide the header for the next table column:
 
     <img width="860" height="149" alt="SecondColumnPrompt" src="https://github.com/user-attachments/assets/c14c52ee-b02e-4a2d-9a02-32eaf626b171" />
 
